@@ -3,7 +3,6 @@ Products  web Full-Stack Web Application
 
 with Angular Features and Node.js
 
-![Project Banner](https://via.placeholder.com/800.png?text=Product+Management+Application)
 
 ## 🌟 Overview
 
